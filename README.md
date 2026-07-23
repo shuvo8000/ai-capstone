@@ -12,3 +12,9 @@ This repository contains my capstone project for the Frontend AI Engineering tra
 ## Goal
 
 Learn AI-assisted software development.
+
+## Features
+
+- AI-assisted development
+- Git version control
+- Frontend Engineering
